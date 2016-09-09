@@ -1,1 +1,1 @@
-# template
+# Githubで使えるテンプレート作成例
